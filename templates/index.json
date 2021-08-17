@@ -135,12 +135,6 @@
         "full_width": false
       }
     },
-    "1629177878bc55b84b": {
-      "type": "apps",
-      "settings": {
-        "include_margins": true
-      }
-    },
     "multi_column": {
       "type": "multicolumn",
       "disabled": true,
@@ -190,7 +184,6 @@
     "featured_products",
     "collage",
     "video",
-    "1629177878bc55b84b",
     "multi_column"
   ]
 }
