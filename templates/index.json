@@ -159,12 +159,20 @@
             "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
           }
+        },
+        "69f7a137-cc91-4644-8899-2b3195ee1934": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
         }
       },
       "block_order": [
         "column1",
         "column2",
-        "column3"
+        "column3",
+        "69f7a137-cc91-4644-8899-2b3195ee1934"
       ],
       "settings": {
         "title": "Multicolumn",
@@ -176,6 +184,27 @@
         "button_link": "",
         "swipe_on_mobile": false
       }
+    },
+    "163005005344a3c398": {
+      "type": "apps",
+      "blocks": {
+        "56a80c53-6759-44c8-bdd4-f870a9a069e8": {
+          "type": "shopify:\/\/apps\/okendo-reviews-minh-dev-public\/blocks\/reviews-carousel\/367a4e01-850b-4f5b-9b7d-45e6e4b5af30",
+          "settings": {
+            "heading": "Custom Header",
+            "link": "",
+            "is_autoplay_enabled": false,
+            "featured_product": "",
+            "featured_collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "56a80c53-6759-44c8-bdd4-f870a9a069e8"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
@@ -184,6 +213,7 @@
     "featured_products",
     "collage",
     "video",
-    "multi_column"
+    "multi_column",
+    "163005005344a3c398"
   ]
 }
