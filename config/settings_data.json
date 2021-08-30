@@ -66,11 +66,11 @@
 
     ],
     "blocks": {
-      "1630050116adaed69f": {
-        "type": "shopify:\/\/apps\/okendo-reviews-minh-dev-public\/blocks\/theme-settings\/367a4e01-850b-4f5b-9b7d-45e6e4b5af30",
+      "16303077195332f8cd": {
+        "type": "shopify:\/\/apps\/okendo-reviews-test\/blocks\/theme-settings\/e7681885-a6e5-4797-99d3-387631eeec81",
         "disabled": false,
         "settings": {
-          "json_ld": false
+          "json_ld": true
         }
       }
     }
