@@ -22,6 +22,11 @@
             "text_style": "subtitle"
           }
         },
+        "403326ea-fdd2-4b89-b1df-2ad3e2178b2c": {
+          "type": "rating",
+          "settings": {
+          }
+        },
         "price": {
           "type": "price",
           "settings": {
@@ -52,6 +57,7 @@
         "share": {
           "type": "share",
           "settings": {
+            "share_label": "Share"
           }
         }
       },
@@ -59,6 +65,7 @@
         "vendor",
         "title",
         "subtitle",
+        "403326ea-fdd2-4b89-b1df-2ad3e2178b2c",
         "price",
         "variant_picker",
         "quantity_selector",
@@ -68,13 +75,8 @@
       ],
       "settings": {
         "enable_sticky_info": true,
+        "hide_variants": false,
         "enable_video_looping": false
-      }
-    },
-    "1630307739a1fbcdb1": {
-      "type": "apps",
-      "settings": {
-        "include_margins": true
       }
     },
     "product-recommendations": {
@@ -85,13 +87,13 @@
         "show_secondary_image": false,
         "add_image_padding": false,
         "show_image_outline": true,
-        "show_vendor": false
+        "show_vendor": false,
+        "show_rating": false
       }
     }
   },
   "order": [
     "main",
-    "1630307739a1fbcdb1",
     "product-recommendations"
   ]
 }
