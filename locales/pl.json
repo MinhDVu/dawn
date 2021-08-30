@@ -47,7 +47,8 @@
       "copy_to_clipboard": "Kopiuj link",
       "share": "Udostępnij",
       "share_url": "Link",
-      "success_message": "Link skopiowany do schowka!"
+      "success_message": "Link skopiowany do schowka",
+      "close": "Zamknij udostępnienie"
     }
   },
   "date_formats": {
@@ -73,7 +74,9 @@
       "external": "Otwiera zewnętrzną stronę internetową."
     },
     "of": "z",
-    "skip_to_product_info": "Pomiń, aby przejść do informacji o produkcie"
+    "skip_to_product_info": "Pomiń, aby przejść do informacji o produkcie",
+    "total_reviews": "suma recenzji",
+    "star_reviews_info": "{{ rating_value }} z {{ rating_max }} gwiazdek"
   },
   "blogs": {
     "article": {
@@ -141,7 +144,8 @@
         "open_media": "Otwórz multimedia {{ index }} w widoku galerii",
         "play_model": "Uruchom przeglądarkę 3D",
         "play_video": "Odtwórz film"
-      }
+      },
+      "view_full_details": "Pokaż kompletne dane"
     },
     "modal": {
       "label": "Galeria multimediów"
