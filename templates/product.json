@@ -29,6 +29,7 @@
         },
         "d581ae8e-be5c-4172-8758-f688e7d1139a": {
           "type": "shopify:\/\/apps\/okendo-reviews-test\/blocks\/star-rating\/e7681885-a6e5-4797-99d3-387631eeec81",
+          "disabled": true,
           "settings": {
           }
         },
@@ -90,6 +91,7 @@
       "blocks": {
         "6913f98b-fa27-489a-a72c-ef3199338065": {
           "type": "shopify:\/\/apps\/okendo-reviews-test\/blocks\/reviews-carousel\/e7681885-a6e5-4797-99d3-387631eeec81",
+          "disabled": true,
           "settings": {
             "heading": "",
             "link": "",
