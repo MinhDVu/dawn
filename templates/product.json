@@ -97,10 +97,17 @@
             "featured_product": "",
             "featured_collection": ""
           }
+        },
+        "dfe755cb-45a1-4dec-9999-517fbf0ec306": {
+          "type": "shopify:\/\/apps\/okendo-reviews-test\/blocks\/reviews-widget\/e7681885-a6e5-4797-99d3-387631eeec81",
+          "settings": {
+            "widget_type": "combined_widget"
+          }
         }
       },
       "block_order": [
-        "6913f98b-fa27-489a-a72c-ef3199338065"
+        "6913f98b-fa27-489a-a72c-ef3199338065",
+        "dfe755cb-45a1-4dec-9999-517fbf0ec306"
       ],
       "settings": {
         "include_margins": true
