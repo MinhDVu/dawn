@@ -7,7 +7,8 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand"
+            "heading": "Talk about your brand",
+            "heading_size": "medium"
           }
         },
         "button": {
@@ -27,10 +28,13 @@
         "button"
       ],
       "settings": {
+        "adapt_height_first_image": false,
         "desktop_text_box_position": "flex-end",
+        "show_text_box": true,
+        "image_overlay_opacity": 0,
         "color_scheme": "background-1",
         "stack_images_on_mobile": true,
-        "adapt_height_first_image": false
+        "show_text_below": true
       }
     },
     "rich_text": {
@@ -81,7 +85,8 @@
         "show_secondary_image": false,
         "add_image_padding": false,
         "show_image_outline": true,
-        "show_vendor": false
+        "show_vendor": false,
+        "show_rating": false
       }
     },
     "collage": {
@@ -100,9 +105,9 @@
           "type": "product",
           "settings": {
             "product": "",
-            "secondary_background": false,
             "second_image": false,
-            "image_padding": false
+            "image_padding": false,
+            "secondary_background": false
           }
         },
         "collection": {
@@ -184,6 +189,27 @@
         "button_link": "",
         "swipe_on_mobile": false
       }
+    },
+    "163046877683beba85": {
+      "type": "apps",
+      "blocks": {
+        "424d7afa-ff1d-4d57-9955-171578b2681a": {
+          "type": "shopify:\/\/apps\/okendo-reviews-minh-dev-public\/blocks\/reviews-carousel\/367a4e01-850b-4f5b-9b7d-45e6e4b5af30",
+          "settings": {
+            "heading": "Custom header",
+            "link": "",
+            "is_autoplay_enabled": false,
+            "featured_product": "",
+            "featured_collection": "keycap-sets"
+          }
+        }
+      },
+      "block_order": [
+        "424d7afa-ff1d-4d57-9955-171578b2681a"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
@@ -192,6 +218,7 @@
     "featured_products",
     "collage",
     "video",
-    "multi_column"
+    "multi_column",
+    "163046877683beba85"
   ]
 }
