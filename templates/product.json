@@ -91,7 +91,7 @@
         "ebef43b0-bcdb-449a-944a-720c7a7fc539": {
           "type": "shopify:\/\/apps\/okendo-reviews-minh-dev-public\/blocks\/reviews-widget\/367a4e01-850b-4f5b-9b7d-45e6e4b5af30",
           "settings": {
-            "widget_type": "reviews_widget"
+            "widget_type": "combined_widget"
           }
         }
       },
