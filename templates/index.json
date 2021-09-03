@@ -192,21 +192,6 @@
     },
     "163046877683beba85": {
       "type": "apps",
-      "blocks": {
-        "424d7afa-ff1d-4d57-9955-171578b2681a": {
-          "type": "shopify:\/\/apps\/okendo-reviews-minh-dev-public\/blocks\/reviews-carousel\/367a4e01-850b-4f5b-9b7d-45e6e4b5af30",
-          "settings": {
-            "heading": "Custom header",
-            "link": "shopify:\/\/pages\/test-reviews-page",
-            "is_autoplay_enabled": false,
-            "featured_product": "",
-            "featured_collection": "keycap-sets"
-          }
-        }
-      },
-      "block_order": [
-        "424d7afa-ff1d-4d57-9955-171578b2681a"
-      ],
       "settings": {
         "include_margins": true
       }
