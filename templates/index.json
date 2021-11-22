@@ -201,10 +201,20 @@
             "badge_link": "shopify:\/\/pages\/about-us",
             "product": "rainbow-lipstick"
           }
+        },
+        "fca33178-a951-4fb1-a4cf-cc3add787f40": {
+          "type": "shopify:\/\/apps\/okendo-reviews-test\/blocks\/reviews-carousel\/e7681885-a6e5-4797-99d3-387631eeec81",
+          "settings": {
+            "show_heading": true,
+            "heading": "",
+            "badge_link": "",
+            "product": ""
+          }
         }
       },
       "block_order": [
-        "54da65b0-18a7-4537-a932-212c25d34190"
+        "54da65b0-18a7-4537-a932-212c25d34190",
+        "fca33178-a951-4fb1-a4cf-cc3add787f40"
       ],
       "settings": {
         "include_margins": true
