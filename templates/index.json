@@ -202,11 +202,47 @@
             "product": "rainbow-lipstick"
           }
         },
+        "9c14bd16-8f62-4c0c-9cfd-beb0234f107f": {
+          "type": "shopify:\/\/apps\/okendo-reviews-test\/blocks\/media-grid\/e7681885-a6e5-4797-99d3-387631eeec81",
+          "settings": {
+            "product": ""
+          }
+        },
+        "9079de80-b89b-4f29-bdd8-f3d4653dce16": {
+          "type": "shopify:\/\/apps\/okendo-reviews-test\/blocks\/reviews-badge\/e7681885-a6e5-4797-99d3-387631eeec81",
+          "settings": {
+          }
+        },
+        "697f7a31-0b47-4ddf-9984-9f455dc57937": {
+          "type": "shopify:\/\/apps\/okendo-reviews-test\/blocks\/reviews-widget\/e7681885-a6e5-4797-99d3-387631eeec81",
+          "settings": {
+            "product": "",
+            "widget_type": "reviews_widget"
+          }
+        },
+        "a6d7ada0-c87c-43f3-88c0-f4ab68f61192": {
+          "type": "shopify:\/\/apps\/okendo-reviews-test\/blocks\/questions-widget\/e7681885-a6e5-4797-99d3-387631eeec81",
+          "settings": {
+            "product": ""
+          }
+        },
+        "01587874-fbc5-4fb9-a361-a91f87e03159": {
+          "type": "shopify:\/\/apps\/okendo-reviews-test\/blocks\/star-rating\/e7681885-a6e5-4797-99d3-387631eeec81",
+          "settings": {
+            "product": "rainbow-lipstick"
+          }
+        },
+        "20bfc925-4f60-4434-9d08-bd25f7ea3d62": {
+          "type": "shopify:\/\/apps\/okendo-reviews-test\/blocks\/media-carousel\/e7681885-a6e5-4797-99d3-387631eeec81",
+          "settings": {
+            "product": ""
+          }
+        },
         "fca33178-a951-4fb1-a4cf-cc3add787f40": {
           "type": "shopify:\/\/apps\/okendo-reviews-test\/blocks\/reviews-carousel\/e7681885-a6e5-4797-99d3-387631eeec81",
           "settings": {
             "show_heading": true,
-            "heading": "",
+            "heading": "cat",
             "badge_link": "",
             "product": ""
           }
@@ -214,6 +250,12 @@
       },
       "block_order": [
         "54da65b0-18a7-4537-a932-212c25d34190",
+        "9c14bd16-8f62-4c0c-9cfd-beb0234f107f",
+        "9079de80-b89b-4f29-bdd8-f3d4653dce16",
+        "697f7a31-0b47-4ddf-9984-9f455dc57937",
+        "a6d7ada0-c87c-43f3-88c0-f4ab68f61192",
+        "01587874-fbc5-4fb9-a361-a91f87e03159",
+        "20bfc925-4f60-4434-9d08-bd25f7ea3d62",
         "fca33178-a951-4fb1-a4cf-cc3add787f40"
       ],
       "settings": {
